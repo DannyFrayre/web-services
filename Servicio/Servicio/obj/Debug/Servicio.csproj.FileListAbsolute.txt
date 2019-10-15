@@ -1,0 +1,4 @@
+C:\Users\ASUS\Documents\Servicio\Servicio\bin\Servicio.dll
+C:\Users\ASUS\Documents\Servicio\Servicio\bin\Servicio.pdb
+C:\Users\ASUS\Documents\Servicio\Servicio\obj\Debug\Servicio.dll
+C:\Users\ASUS\Documents\Servicio\Servicio\obj\Debug\Servicio.pdb
